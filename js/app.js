@@ -14,21 +14,22 @@ const members = [
     id: 2, 
     name: "ZHOU AN XIN", 
     profileImgs: [
-      "images/liyu44.jpg", 
-      "images/liyu45.jpg", 
-      "images/liyu46.jpg"
+      "images/XIN1.jpg", 
+      "images/XIN2.jpg", 
+      "images/XIN3.jpg"
     ], 
-    detailImg: "images/liyu-pro2.jpg", 
+    detailImg: "images/XINpq.jpg", 
     bio: "이번 프로그램에서 최선을 다해서 제 모든 것을 보여드리고 여한 없이 하겠습니다" 
   },
   { 
     id: 3, 
     name: "CHUNG SANG HYEON", 
     profileImgs: [
-      "images/liyu40.jpg", 
-      "images/liyu39.jpg"
+      "images/HYEON1.jpg", 
+      "images/HYEON2.jpg",
+      "images/HYEON3.jpg"
     ], 
-    detailImg: "images/liyu-pro3.jpg", 
+    detailImg: "images/HYEONp1.jpg", 
     bio: "여러분들의 마음에 ALL TIME 0순위가 되겠습니다!" 
   },
   { 
@@ -45,21 +46,22 @@ const members = [
     id: 5, 
     name: "JANG HAN EUM", 
     profileImgs: [
-      "images/liyu35.jpg", 
-      "images/liyu34.jpg"
+      "images/EUM1.jpg", 
+      "images/EUM2.jpg",
+      "images/EUM3.jpg"
     ], 
-    detailImg: "images/liyu-pro5.jpg", 
+    detailImg: "images/EUMp1.jpg", 
     bio: "완벽해질 때까지 끝없이 노력하여 결과로 보여드리겠습니다." 
   },
   { 
     id: 6, 
     name: "CHUEI LI YU", 
     profileImgs: [
-      "images/liyu22.jpg", 
-      "images/liyu23.jpg",
-      "images/liyu24.jpg"
+      "images/LIYU1.jpg", 
+      "images/LIYU2.jpg",
+      "images/LIYU3.jpg"
     ], 
-    detailImg: "images/liyu-pro6.jpg", 
+    detailImg: "images/LIYUp1.jpg", 
     bio: "BOYS II PLANET에서 슈퍼스타가 될 첫 STEP을 내딛겠습니다!" 
   },
   { 
