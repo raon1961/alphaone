@@ -1,55 +1,55 @@
 const members = [
   { 
     id: 1, 
-    name: "WE WANT", 
+    name: "LEE SANG WON", 
     profileImgs: [
       "images/liyu8.jpg", 
       "images/liyu9.jpg", 
       "images/liyu7.jpg"
     ], 
     detailImg: "images/liyu-pro1.jpg", 
-    bio: "립우가 생각한 립우의 이미지는 차갑게 생긴 바보." 
+    bio: "저는 늘 최선을 택하겠습니다" 
   },
   { 
     id: 2, 
-    name: "CHUEI LI YU'S", 
+    name: "ZHOU AN XIN", 
     profileImgs: [
       "images/liyu44.jpg", 
       "images/liyu45.jpg", 
       "images/liyu46.jpg"
     ], 
     detailImg: "images/liyu-pro2.jpg", 
-    bio: "립우가 연습하며 생긴 습관은 정신 나가며 몸 움직이기." 
+    bio: "이번 프로그램에서 최선을 다해서 제 모든 것을 보여드리고 여한 없이 하겠습니다" 
   },
   { 
     id: 3, 
-    name: "DEBUT", 
+    name: "CHUNG SANG HYEON", 
     profileImgs: [
       "images/liyu40.jpg", 
       "images/liyu39.jpg"
     ], 
     detailImg: "images/liyu-pro3.jpg", 
-    bio: "립우가 도전하고 싶은 무대 컨셉은 뭐든지!" 
+    bio: "여러분들의 마음에 ALL TIME 0순위가 되겠습니다!" 
   },
   { 
     id: 4, 
-    name: "崔立于", 
+    name: "LEE LEO", 
     profileImgs: [
       "images/liyu32.jpg", 
       "images/liyu33.jpg"
     ], 
     detailImg: "images/liyu-pro4.jpg", 
-    bio: "립우의 최대 강점은 얼굴!" 
+    bio: "데뷔하겠습니다!!" 
   },
   { 
     id: 5, 
-    name: "최립우", 
+    name: "JANG HAN EUM", 
     profileImgs: [
       "images/liyu35.jpg", 
       "images/liyu34.jpg"
     ], 
     detailImg: "images/liyu-pro5.jpg", 
-    bio: "BOYS II PLANET에서 슈퍼스타가 될 첫 STEP을 내딛겠습니다!" 
+    bio: "완벽해질 때까지 끝없이 노력하여 결과로 보여드리겠습니다." 
   },
   { 
     id: 6, 
@@ -60,37 +60,37 @@ const members = [
       "images/liyu24.jpg"
     ], 
     detailImg: "images/liyu-pro6.jpg", 
-    bio: "과거 지원서 쓰던 립우에게 한마디 잘 될거니까 그냥 하자!" 
+    bio: "BOYS II PLANET에서 슈퍼스타가 될 첫 STEP을 내딛겠습니다!" 
   },
   { 
     id: 7, 
-    name: "#순간콜렉터", 
+    name: "YOO KANG MIN", 
     profileImgs: [
       "images/liyu17.jpg", 
       "images/liyu18.jpg"
     ], 
     detailImg: "images/liyu-pro7.jpg", 
-    bio: "지금 립우에게 힘이 되는 한마디는 잘 하고 있어 걱정마!" 
+    bio: "하루하루를 소중하게 여기고 무대 하나하나에 제가 할 수 있는 최선을 다하겠습니다!" 
   },
   { 
     id: 8, 
-    name: "#미대오빠", 
+    name: "MASATO", 
     profileImgs: [
       "images/liyu31.jpg", 
       "images/liyu30.jpg"
     ], 
     detailImg: "images/liyu-pro8.jpg", 
-    bio: "미래 파이널을 앞둔 립우에게 한마디 이번에도 잘 할 수 있어!" 
+    bio: "한순간도 놓치지 않고 무대 위에서 모든 걸 불태우겠습니다!" 
   },
   { 
     id: 9, 
-    name: "#버니립우", 
+    name: "HE XIN LONG", 
     profileImgs: [
       "images/liyu16.jpg", 
       "images/liyu15.jpg"
     ], 
     detailImg: "images/liyu-pro9.jpg", 
-    bio: "베스트 초이스 리부초이 놓치지 마세요!" 
+    bio: "최선을 다 하겠습니다!" 
   }
 ];
 
@@ -177,7 +177,7 @@ function App() {
     React.createElement("h1", {
       className: "text-2xl sm:text-3xl font-bold mb-6 fixed top-4 left-4 z-50",
       style: { fontFamily: "Sequel100Black, sans-serif" }
-    }, "CHUEI LI YU"),
+    }, "ALPHAONE"),
 
     // 카드 그리드
     React.createElement(
