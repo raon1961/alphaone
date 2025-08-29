@@ -18,7 +18,7 @@ const members = [
       "images/XIN2.jpg", 
       "images/XIN3.jpg"
     ], 
-    detailImg: "images/XINpq.jpg", 
+    detailImg: "images/XINp1.jpg", 
     bio: "이번 프로그램에서 최선을 다해서 제 모든 것을 보여드리고 여한 없이 하겠습니다" 
   },
   { 
